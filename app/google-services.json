@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598525156672",
+    "firebase_url": "https://budge-ee54c.firebaseio.com",
+    "project_id": "budge-ee54c",
+    "storage_bucket": "budge-ee54c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598525156672:android:650f5106dc52286e",
+        "android_client_info": {
+          "package_name": "com.vaishak_murali.budge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598525156672-3f3j5cvqimgf50ubh4bqq14femmu7p6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaishak_murali.budge",
+            "certificate_hash": "931e0fa0de7feb8dd42647875a37ba8051ed58dd"
+          }
+        },
+        {
+          "client_id": "598525156672-l5nbgn4bp37s666ilahlfb9gpufjpp13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiG6lZQLdGIxnZ-vxzVLZL8qA7vtVYabo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598525156672-l5nbgn4bp37s666ilahlfb9gpufjpp13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
